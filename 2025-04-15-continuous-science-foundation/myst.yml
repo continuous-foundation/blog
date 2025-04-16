@@ -1,0 +1,12 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: 1a7ab240-5a9e-40b4-8da0-7b182288836d
+  title: Laying the Groundwork for Continuous Science
+  subtitle: Bridging the Gap Between Research and Communication
+  date: 2025-04-15
+  authors:
+    - rowan
+    - steve
+    - courtney
