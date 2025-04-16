@@ -1,5 +1,7 @@
 ---
 title: Laying the Groundwork for Continuous Science
+description: |
+  Scientific work today is collaborative, computational, and evolving — yet we still communicate it through static, disconnected formats. Continuous Science Foundation is building a movement to reflect how research actually happens: iterative, integrated, collaborative, researcher-driven, and continuous. We outline a vision for a system where tools, standards, and publishing practices support the full arc of scientific progress — not just its final product.
 ---
 
 ## The tools of science have changed, the way we share science has not
