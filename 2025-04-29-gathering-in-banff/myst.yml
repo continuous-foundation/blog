@@ -1,0 +1,10 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: 03fc04ef-e2b8-4e75-9931-d9b4ae53b485
+  title: Gathering in Banff
+  subtitle: Shifting the Open-Science Narrative from Access towards Process
+  date: 2025-04-29
+  authors:
+    - rowan
