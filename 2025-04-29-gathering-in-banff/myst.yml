@@ -3,8 +3,9 @@ extends:
   - ../csf.yml
 project:
   id: 03fc04ef-e2b8-4e75-9931-d9b4ae53b485
-  title: Gathering in Banff
-  subtitle: Shifting the Open-Science Narrative from Access towards Process
+  title: A Meeting in Banff on the Future of Research Communication
+  subtitle: Shaping a more complete, rapid, and reusable future for scientific knowledge
+  short_title: Future of Research Communication
   date: 2025-04-29
   authors:
     - rowan
