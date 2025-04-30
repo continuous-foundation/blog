@@ -1,0 +1,12 @@
+version: 1
+project:
+  id: 1f26544c-17fe-48c6-bb96-b04fd8804d20
+  title: Continuous Science Foundation
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/continuous-foundation/blog
+site:
+  template: book-theme
+  domains:
+    - csf-content.curve.space
