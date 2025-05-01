@@ -6,7 +6,7 @@ project:
   thumbnail: thumbnail.png
   venue:
     title: Continuous Science Foundation
-    url: https://continuousfoundation.org/
+    url: https://continuousfoundation.org
   subject: Article
   contributors:
     - id: rowan
