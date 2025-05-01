@@ -10,3 +10,5 @@ project:
     - rowan
     - steve
     - courtney
+  references:
+    defs: https://articles.continuousfoundation.org/articles/defining-continuous-science
