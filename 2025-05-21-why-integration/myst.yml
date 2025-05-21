@@ -1,0 +1,19 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: 7770a7d9-7ce6-4aba-8606-0d462a7da518
+  title: Reimagining Research as an Integrated Experience
+  subtitle: Preserve the Package, Not Just the Pieces
+  description: Preserving the integration between code, data, narrative, and computational environments is essential to communicate and encourage reproducible and reusable research. A seamless, interactive approach to research communication is an important goal to help addresses the fragmentation in today’s scholarly publishing infrastructure.
+  date: 2025-05-21
+  authors:
+    - rowan
+  abbreviations:
+    PERC: preserving executable research content
+    FORCE11: Future of Research Communication and eScholarship
+    DOI: Digital Object Identifier
+  references:
+    scipy2024: https://proceedings.scipy.org/articles/NKVC9349
+    idr: https://cn-testing.curve.space/articles/cn-testing-idr-images
+    cs: https://articles.continuousfoundation.org/articles/defining-continuous-science
