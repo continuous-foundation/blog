@@ -1,0 +1,17 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: a892c5d1-a51a-4c76-a95b-0ce52580afd3
+  title: Science Doesn’t Belong in Just One Place
+  subtitle: The future of research communication is modular, remixable, and everywhere.
+  description: |
+    Outdated publishing models assume research belongs in one place. But science is continuous, collaborative, and increasingly distributed.
+    By embracing shared formats and multiple views, we can make research more discoverable, contextual, and remixable.
+  date: 2025-06-05
+  authors:
+    - rowan
+  abbreviations:
+    DOI: Digital Object Identifier
+  references:
+    cs: https://articles.continuousfoundation.org/articles/defining-continuous-science

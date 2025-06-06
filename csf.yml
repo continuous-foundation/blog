@@ -20,6 +20,7 @@ project:
         - id: curvenote
     - id: courtney
       name: Courtney Babott
+      orcid: 0009-0009-4167-2325
       affiliations:
         - id: csf
         - id: wildlyopen
