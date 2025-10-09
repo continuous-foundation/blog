@@ -3,7 +3,7 @@ title: Science Doesn’t Belong in Just One Place
 subtitle: The future of research communication is modular, remixable, and everywhere.
 ---
 
-In an ideal world, scientific communication would flow directly from the research itself. Early ideas—whether data points, musings, exploratory figures, notebooks—would be shared openly, evolving over time into more formal results by remixing and composing the existing bits. This [continuous](xref:cs#term-continuous-science) approach aligns with how science actually works: iterating, refining, expanding on previous steps, building on and incorporating other peoples work and methods.
+In an ideal world, scientific communication would flow directly from the research itself. Early ideas—whether data points, musings, exploratory figures, notebooks—would be shared openly, evolving over time into more formal results by remixing and composing the existing bits. This [continuous](xref:cs#term-continuous-science) approach aligns with how science actually works: iterating, refining, expanding on previous steps, building on and incorporating other people's work and methods.
 
 But today, this continuous approach faces a major roadblock: **as soon as research reaches a certain threshold of significance, the momentum breaks. Suddenly, your work has to be reshaped to fit a platform that discards the context and continuity of the work so far.**
 

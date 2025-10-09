@@ -1,0 +1,16 @@
+version: 1
+extends:
+  - ../../csf.yml
+project:
+  id: 7c44212d-9334-4a1b-9faf-7edbde112283
+  title: Building Biology’s Operating System, A Journey Toward Modular Science
+  description: >
+    Anton Molina and b.next are pioneering modular science—breaking research
+    into reusable pieces that can be shared in days instead of years.
+
+    Their Nucleus ecosystem uses Developer Notes to publish protocols and data
+    as "data packets" others can immediately implement.
+  subtitle: 'Case Study: Anton Molina, PhD'
+  date: '2025-10-08'
+  abbreviations:
+    RFC: Request for Comment
