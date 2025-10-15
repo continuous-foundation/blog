@@ -20,11 +20,11 @@ Together, they aim to build synthetic cells: non-living, genetically programmed 
 
 ## Building the Infrastructure for Sharing
 
-A key component of the Nucleus infrastructure is [Developer Notes](https://devnotes.bnext.bio/) (DevNotes) give researchers a place to publish biochemical modules as self-contained “data packets,” complete with the data, designs, and analysis needed to implement them. DevNotes are based on Jupyter Notebooks, allowing us to integrate tools from open-source scientific computing and software development communities. The result is the ability to work more efficiently and provide greater visibility into the parts of the research workflow that are often not shared with existing publication practices, such as experimental design and analysis.
+A key component of the Nucleus infrastructure is [Developer Notes](https://devnotes.bnext.bio/) (DevNotes), which gives researchers a place to publish biochemical modules as self-contained “data packets,” complete with the data, designs, and analysis needed to implement them. DevNotes are based on Jupyter Notebooks, allowing us to integrate tools from open-source scientific computing and software development communities. The result is the ability to work more efficiently and provide greater visibility into the parts of the research workflow that are often not shared with existing publication practices, such as experimental design and analysis.
 
 This is more than a convenience. It is a fundamental rethinking of how science communicates and collaborates. The approach draws inspiration from the [Request for Comment (RFC) series](https://datatracker.ietf.org/doc/html/rfc3) created by the Internet Engineering Task Force in 1969, which encouraged timely sharing over polish and created a living record of more than 9,000 documents that underpin the internet we use today.
 
-DevNotes aim to do the same for the synthetic cell community: lowering the barriers to participation, encouraging iteration, and giving credit, through DOIs, for contributions that might never appear in a traditional journal article. The goal is to enable researchers to share useful information days and weeks rather than the months and years involved with typical journal timelines.
+DevNotes aim to do the same for the synthetic cell community: lowering the barriers to participation, encouraging iteration, and giving credit, through DOIs, for contributions that might never appear in a traditional journal article. The goal is to enable researchers to share useful information in days and weeks rather than the months and years involved with typical journal timelines.
 
 ## Coordination at the Field Level
 
