@@ -1,0 +1,24 @@
+version: 1
+extends:
+  - ../../csf.yml
+project:
+  # doi: 10.62329/jwcu8665
+  id: d2e61a2a-7075-4c99-b298-dadf382cc07c
+  title: A Case Study on Building Codes
+  subtitle: From One Big Stamp to Modular Approval Pathways
+  description: |
+    In the 19th and early 20th centuries, building oversight in North America and Europe was minimal and inconsistent. Many cities relied on one final inspection, often conducted after completion or after occupancy had already begun. Many inspectors would issue a single “pass/fail” stamp of approval, and enforcement focused on obvious hazards rather than systematic verification of structure, materials, or systems.
+  date: 2026-01-19
+  abbreviations:
+    IBC: International Building Code
+    HVAC: Heating, Ventilation, and Air Conditioning
+  exports:
+    - format: typst
+      template: https://github.com/curvenote-templates/csf.git
+      article: index.md
+      output: full_text.pdf
+  downloads:
+    - title: Download PDF
+      url: full_text.pdf
+  authors:
+    - courtney
