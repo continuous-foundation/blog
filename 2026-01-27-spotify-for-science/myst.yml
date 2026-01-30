@@ -1,0 +1,22 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  doi: 10.62329/phrt5367
+  id: cfa4afad-8c4e-4112-964e-b9e112b6c70f
+  title: 'From Albums to Streams: How Modularity Changes Systems'
+  description: |
+    Scientific publishing is breaking under document-centric formats designed for a physical world. Borrowing from music’s shift from albums to streaming, we make the case that open access alone cannot deliver reuse, trust, or scale. The future of science depends on modular, interoperable research components that move across tools, enabling new workflows, tools, and ecosystems.
+  date: 2026-01-29
+  authors:
+    - courtney
+    - rowan
+  exports:
+    - id: pdf
+      format: typst
+      template: https://github.com/curvenote-templates/csf.git
+      article: index.md
+      output: full_text.pdf
+  downloads:
+    - id: pdf
+      title: Download PDF

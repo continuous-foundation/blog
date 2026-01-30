@@ -1,0 +1,15 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: dcf081b5-5b4d-4674-8086-022116ce1d85
+  title: CSF's Looks toward 2026
+  description: |
+    Continuous Science Foundation (CSF) was born in 2025 and started with something rare: momentum. Not the fragile kind that fades after a conference ends, but the sustained energy that comes from people actually building together. In Banff, we named the movement—Composable Science [@banff-2025]. In San Diego, we built the infrastructure and coalitions to make it real [@san-diego-2025]. Now, as we move into 2026, the question isn't whether modular scientific publishing will happen. It's how quickly we can move it from prototype to practice.
+  date: 2026-01-14
+  authors:
+    - courtney
+    - rowan
+site:
+  options:
+    numbered_references: true
