@@ -20,7 +20,9 @@ Before streaming, you bought albums. Even if you wanted one song, you bought twe
 
 Scientific publishing follows a similar pattern. Researchers bundle methods, data, figures, code, and conclusions into a single artifact, most often a narrative paper. Journals play an essential role in validation, synthesis, and stewardship of the scholarly record. At the same time, they control what is formally published, what gains visibility, and what carries career-defining prestige. Peer review, editorial coordination, and reputational signaling are costly to manage. Prestige remains scarce and powerful.
 
-The paper, like the album, is not just a communication format. It is also a mechanism for allocating value, recognition, and authority.
+_What if the paper has never been the scientific equivalent of a song at all?_
+
+The paper, like the album, functions as a wrapper for content, concentrating value, recognition, and authority.
 
 ## The Bundle Is Not Always the Starting Point
 
@@ -58,7 +60,7 @@ To support modularity, standards must exist. Standards also serve a second, equa
 
 Preprint servers did for science what SoundCloud did for music. They removed the gate at the front door. Researchers could share work before permission was granted. Discovery could happen earlier. This was a necessary step.
 
-Most preprint systems still organize knowledge around bundled narrative documents. Machines can index papers and infer structure after the fact, but that structure is not native or dependable. Search, evaluation, and reuse remain anchored to static containers. Components are present, but implicit. Relationships remain loosely unknown and not portable.
+Preprints accelerated sharing by removing permission from the point of release, while largely preserving bundled narrative documents. Machines can index papers and infer structure after the fact, but that structure is not native or dependable. Search, evaluation, and reuse remain anchored to static containers. Components are present, but implicit. Relationships remain loosely unknown and not portable.
 
 Preprint servers feel decentralized relative to journals, but they are still a form of centralization. SoundCloud was enabling, but not enduring. The point of access changed, it removed gatekeeping at the point of sharing. Utility did not fully follow. The change in distribution is making a big difference. But we _also_ need to move on.
 
@@ -72,7 +74,7 @@ Science has not yet crossed that line. Preprints open the door, but without shar
 
 The transition underway in science depends on three connected steps.
 
-First, **unbundling**. Research must find ways to distribute the modular components _alongside existing research_.
+First, **unbundling**. Research must find ways to distribute the modular components _alongside existing research_, like for example preprints.
 
 Second, **standardization**. Those components must carry agreed-upon attributes so they can be interpreted and surfaced consistently across systems. If a figure supports a claim, that relationship must be explicit. If a method has dependencies, they must be describable. If a dataset is reviewed, versioned, or licensed, that information must travel with it.
 
@@ -86,7 +88,7 @@ When components are modular, described consistently, and linked through shared s
 
 Three forces make this shift difficult to avoid.
 
-**AI is forcing the issue.** Models trained on bundled papers struggle with verification and provenance. When claims, data, methods, and code are collapsed into a single narrative artifact, machines can extract text but cannot reliably or explicitly trace evidence, attribution, or reuse. Hallucinations are not a substitute for the scientific record.
+**AI is forcing the issue.** Models trained on bundled papers struggle with verification and provenance. When claims, data, methods, and code are collapsed into a single narrative artifact, machines can extract text but cannot reliably or explicitly trace evidence, credit, attribution, or reuse. Hallucinations are not a substitute for the scientific record.
 
 **Computational research cannot wait.** Many fields already operate through continuous sharing of data, code, and methods. Publishing infrastructure should amplify that reality, not lag behind it.
 
@@ -107,7 +109,7 @@ Method reuse
 Living research
 : Update a dataset or method, and every dependent work can reference the new version transparently.
 
-Distributed trust
+Distributed credit & trust
 : Attach credit, review, licensing, and provenance at the component level, not only to final articles.
 
 Composed knowledge
