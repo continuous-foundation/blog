@@ -30,7 +30,7 @@ The tension is not that bundles are bad. The bundled paper remains essential. Th
 
 Music listeners rarely want an entire album as their first interaction. They want a track that fits a moment, a mood, or a task. In research, the pattern is similar. Full papers are essential for interpretation and synthesis, but researchers often engage first with specific components, like a figure or method.
 
-In a physical world of vinyl records and printed journals, bundling made sense. In a digital world, we are increasingly constrained by boundaries that no longer make sense. In a world of artificial intelligence, what does the bundle _prevent_ us from seeing?
+In a physical world of vinyl records and printed journals, bundling made sense. In a digital world, we are increasingly constrained by boundaries that no longer exist. In a world of artificial intelligence, what does the bundle _prevent_ us from seeing?
 
 ## “Spotify for Science”
 
