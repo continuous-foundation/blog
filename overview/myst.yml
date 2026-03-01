@@ -8,5 +8,12 @@ project:
   github: https://github.com/continuous-foundation/blog
 site:
   template: book-theme
+  nav:
+    - title: About
+      url: https://continuousfoundation.org/about
+    - title: Articles
+      url: /articles
+    - title: Contact
+      url: https://continuousfoundation.org/contact
   domains:
     - csf-content.curve.space
