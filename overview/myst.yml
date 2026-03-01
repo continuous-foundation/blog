@@ -15,5 +15,3 @@ site:
       url: /articles
     - title: Contact
       url: https://continuousfoundation.org/contact
-  domains:
-    - csf-content.curve.space
