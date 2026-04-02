@@ -4,17 +4,6 @@ subtitle: A keynote on the modular science movement and the Open Exchange Archit
 description: |
   Science is trapped in a paper-shaped box. In this keynote at the ATProto community, Rowan Cockett introduces the structural states of scientific components — the floor, the buckets, and the shelf — and makes the case for a second wave of modular science where modularity emerges from packaging rather than being imposed as a precondition. The talk introduces the Open Exchange Architecture (OXA), a new standard for modular and composable scientific content.
 date: 2025-04-02
-authors:
-  - rowan
-tags:
-  - presentation
-  - open-science
-  - modular-science
-  - oxa
-thumbnail: thumbnail.png
-downloads:
-  - title: Download Slides
-    file: ./slides.pdf
 abstract: |
   In this keynote at the ATProto community, Rowan Cockett introduces the structural states of scientific components — the floor, the buckets, and the shelf — and makes the case for a second wave of modular science where modularity emerges from packaging rather than being imposed as a precondition. The talk introduces the Open Exchange Architecture (OXA), a new standard for modular and composable scientific content.
 ---
