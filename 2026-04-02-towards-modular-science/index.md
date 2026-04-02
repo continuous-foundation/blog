@@ -2,7 +2,7 @@
 title: Towards Modular Open Science
 subtitle: A keynote on the modular science movement and the Open Exchange Architecture.
 description: |
-  Science is trapped in a paper-shaped box. In this talk at the ATProto community, Rowan Cockett introduces the structural states of scientific components — the floor, the buckets, and the shelf — and makes the case for a second wave of modular science where modularity emerges from packaging rather than being imposed as a precondition. The talk introduces the Open Exchange Architecture (OXA), a new standard for modular and composable scientific content.
+  Science is trapped in a paper-shaped box. In this keynote at the ATProto community, Rowan Cockett introduces the structural states of scientific components — the floor, the buckets, and the shelf — and makes the case for a second wave of modular science where modularity emerges from packaging rather than being imposed as a precondition. The talk introduces the Open Exchange Architecture (OXA), a new standard for modular and composable scientific content.
 date: 2025-04-02
 authors:
   - rowan
@@ -16,12 +16,14 @@ downloads:
   - title: Download Slides
     file: ./slides.pdf
 abstract: |
-  In this talk at the ATProto community, Rowan Cockett introduces the structural states of scientific components — the floor, the buckets, and the shelf — and makes the case for a second wave of modular science where modularity emerges from packaging rather than being imposed as a precondition. The talk introduces the Open Exchange Architecture (OXA), a new standard for modular and composable scientific content.
+  In this keynote at the ATProto community, Rowan Cockett introduces the structural states of scientific components — the floor, the buckets, and the shelf — and makes the case for a second wave of modular science where modularity emerges from packaging rather than being imposed as a precondition. The talk introduces the Open Exchange Architecture (OXA), a new standard for modular and composable scientific content.
 ---
 
 ::::{tip} At-Science Keynote Talk
 :::{iframe} https://www.loom.com/embed/8a6aced82b2544308b857875e1bde252
 :width: 100%
+:placeholder: banner.png
+Watch the [keynote online](https://www.loom.com/share/8a6aced82b2544308b857875e1bde252).
 :::
 ::::
 
@@ -222,7 +224,7 @@ The AT Proto and OXA schema representations side by side.
 
 This is a journal that we work with called [Elemental Microscopy](https://elementalmicroscopy.org), part of the Microscopy Society of America. They're trying to reimagine what a modern journal looks like using composable, interactive, computational concepts for communicating very large-scale microscopy data.
 
-:::{figure} ./microscopy-zoom.mp4
+:::{figure} ./microscopy-zoom
 Zooming into a 1.5 TB microscopy dataset, the same way you would with Google Maps.
 :::
 
@@ -232,7 +234,7 @@ Zooming into a 1.5 TB microscopy dataset, the same way you would with Google Map
 
 Another case study is a partnership between Curvenote and openRxiv where we're working to reprocess all of the half million preprints (424,949 bioRxiv preprints, 79,809 medRxiv preprints, 8.1 TB of data total) that have been published over the last decade — converting them into OXA.
 
-:::{figure} ./curvenote-citations.mp4
+:::{figure} ./curvenote-citations
 Hover citations with inline figures, attribution and licensing information.
 :::
 

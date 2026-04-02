@@ -16,3 +16,14 @@ project:
     - open-science
     - modular-science
     - oxa
+  exports:
+    - id: pdf
+      format: typst
+      template: https://github.com/curvenote-templates/csf.git
+      article: index.md
+      output: full_text.pdf
+  downloads:
+    - id: pdf
+      title: Download PDF
+    - title: Download Slides
+      file: ./slides.pdf
