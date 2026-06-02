@@ -59,7 +59,7 @@ Decay is not the same as graceful degradation — decay just happens, whereas Gr
 To make this concrete, the PIRC Working Group proposed a framework that pairs **increasing interactivity** (which we want to encourage) with **graceful degradation** (the safety net that makes that encouragement risk-free). Interactivity moves up; graceful degradation falls back down.
 
 :::{figure #fig-dial} ./pirc-dial.png
-The graceful degradation dial — from Information (no interactivity), through Exploration (customizable style and view), to Modification (customizable content and analysis). Fallbacks on the left, increasing interactivity on the right.
+The graceful degradation dial — from Information (no interactivity), through Exploration (customizable style and view), to Modification (customizable content and analysis). Fallbacks on the left, increasing interactivity on the right. See [PIRC Working Group Website](https://force11.github.io/pircwg/) for full figure and description, CC-BY-4.0.
 :::
 
 The framework defines three levels of interactivity, each of which can degrade into the level below it:
@@ -69,7 +69,7 @@ The framework defines three levels of interactivity, each of which can degrade i
 - **Level 1 — Static.** A fully decayed version. The object is no longer computationally interactive, but still includes data and code citations or links following appropriate standards. Content is fixed, but marked and tagged for accessibility.
 
 :::{figure #fig-framework} ./pirc-framework.png
-The PIRC framework. Three levels of interactivity (rows) across five components (columns): Text, Visualizations, Data, Code, and Environment. Progressive interactivity rises on the left; graceful degradation falls on the right.
+The PIRC framework. Three levels of interactivity (rows) across five components (columns): Text, Visualizations, Data, Code, and Environment. Progressive interactivity rises on the left; graceful degradation falls on the right. See [PIRC Working Group Website](https://force11.github.io/pircwg/) for full figure and description, CC-BY-4.0.
 :::
 
 At each level, five **columns** represent the components of a research output. Although there is some fluidity among them, it helps to think of them separately because they degrade in different ways:
