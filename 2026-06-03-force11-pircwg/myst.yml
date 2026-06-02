@@ -1,0 +1,33 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: c22d4aad-ac1e-42c9-bf00-7e7784c0398b
+  title: Preserving Interactive Research Content
+  subtitle: Graceful degradation as a framework for balancing innovation and longevity in research communication.
+  description: |
+    The FORCE11 PIRC Working Group introduces graceful degradation — a tiered preservation strategy where interactive research objects fall back through levels of decreasing interactivity rather than breaking catastrophically. The Open Exchange Architecture (OXA) shows how this comes to life as a community-adoptable standard.
+  date: 2026-06-03
+  authors:
+    - rowan
+  abbreviations:
+    PIRC: Preserving Interactive Research Content
+    OXA: Open Exchange Architecture
+  tags:
+    - working-group
+    - open-science
+    - preservation
+    - reproducibility
+    - oxa
+  exports:
+    - id: pdf
+      format: typst
+      template: https://github.com/curvenote-templates/csf.git
+      article: index.md
+      output: full_text.pdf
+  downloads:
+    - id: pdf
+      title: Download PDF
+    - title: Download Presentation
+      file: ./presentation.pdf
