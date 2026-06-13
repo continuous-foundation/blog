@@ -31,6 +31,6 @@ Science is evolving. Research today is fueled by vast data, open collaboration, 
 
 :::{div .text-center}
 
-{button}`Read All Articles <articles.md>`
+[Read All Articles](./articles.md)
 
 :::
