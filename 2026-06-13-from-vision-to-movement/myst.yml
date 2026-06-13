@@ -1,0 +1,28 @@
+version: 1
+extends:
+  - ../csf.yml
+project:
+  id: 145c42a0-e956-41ed-a058-83c66221c227
+  title: 'From Vision to Movement: A Year of Composable Science'
+  description: |
+    A year after Banff, the composable science movement has gone from a shared vision to working infrastructure and real adoption. We reflect on what the modular peer review and reuse incentives working groups taught us, how OXA emerged from our standards work and is being adopted, and how a partnership between openRxiv and Curvenote is taking the first steps toward turning over half a million preprints into modular, addressable content.
+  date: 2026-06-13
+  authors:
+    - rowan
+    - courtney
+  keywords:
+    - composable science
+    - modular science
+    - OXA
+    - peer review
+    - reuse
+    - standards
+  exports:
+    - id: pdf
+      format: typst
+      template: https://github.com/curvenote-templates/csf.git
+      article: index.md
+      output: full_text.pdf
+  downloads:
+    - id: pdf
+      title: Download PDF
