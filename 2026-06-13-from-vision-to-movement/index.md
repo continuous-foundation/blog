@@ -18,7 +18,7 @@ Watch [_Composable Science_ on YouTube](https://www.youtube.com/watch?v=Y5uL9X3e
 
 The clearest thing we've learned this year is that composable science is not a product we ship or a milestone we cross. It's a movement — and movements are made of people willing to _move_ before they have permission.
 
-The arc has been steady. In **Banff**, we aligned on a vision and then organized around _adoption_ through three working groups that emerged directly from those conversations. What excites us most isn't any single output. It's watching the network effects begin.
+The arc has been steady. In Banff, we aligned on a vision and then organized around _adoption_ through three working groups that emerged directly from those conversations. What excites us most isn't any single output. It's watching the network effects begin.
 
 ## Working Groups
 
@@ -51,7 +51,7 @@ If giving credit is harder than extracting value, people will extract value. The
 
 ### Standards and adoption
 
-The third thread was standards. In **San Diego**, we built the [infrastructure and coalitions](https://articles.continuousfoundation.org/articles/from-tools-to-adoption) to make it real. Our standards working group asked a hard question: how do tools actually interoperate without a single platform controlling how knowledge circulates?
+The third thread was standards. In San Diego, we built the [infrastructure and coalitions](https://articles.continuousfoundation.org/articles/from-tools-to-adoption) to make it real. Our standards working group asked a hard question: how do tools actually interoperate without a single platform controlling how knowledge circulates?
 
 The major outcome was the [Open Exchange Architecture (OXA)](https://oxa.dev) — not a theoretical framework but code, schemas, and working implementations, designed as an interoperability layer that works with the infrastructure publishers already have.
 
